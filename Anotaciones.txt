@@ -1,3 +1,6 @@
 Estamos probando en la pc como usar cada uno de los comandos.
 
 Vale equivocarse, soy un ser humano.
+
+Probando si estan hechos los commit,
+porque creo que no.
